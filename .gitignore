@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+.vscode/
+
+# 测试
+tests/
+test_dir/
+
+#项目
+*.apk
+*.keystore
+tools/
